@@ -1,6 +1,6 @@
 # Keylogger con Capturas de Pantalla y Sincronización
 
-Este programa es un keylogger diseñado específicamente para sistemas Linux, escrito en C y creado en Ubuntu. Su función principal es registrar las teclas presionadas en un archivo llamado `keylogger.txt`, el cual se genera automáticamente. Además, el programa captura la pantalla de la computadora cada minuto, guardando las imágenes en una carpeta dedicada. Cada 5 minutos, tanto el archivo de registro como las capturas de pantalla son enviadas automáticamente a un servidor remoto para su almacenamiento y análisis, una vez enviados el archivo `keylogger.txt` y la carpeta `screenshots` son vaciadas en el sistema operativo para no generar espacio en el sistema operativo.
+Este programa es un keylogger diseñado específicamente para sistemas Linux, escrito en C y creado en Ubuntu. Su función principal es registrar las teclas presionadas en un archivo llamado `keylogger.txt`, el cual se genera automáticamente. Además, el programa captura la pantalla de la computadora cada minuto, guardando las imágenes en una carpeta dedicada. Cada 5 minutos, tanto el archivo de registro como las capturas de pantalla son enviadas automáticamente a un servidor remoto para su almacenamiento y análisis, una vez enviados el archivo `keylogger.txt` y la carpeta `screenshots` su contenido es vaciado en el sistema operativo para no generar espacio.
 
 ## Requisitos Previos a la Instalación
 
