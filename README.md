@@ -19,7 +19,7 @@ Antes de instalar y ejecutar este script, asegúrate de ejecutar los siguientes 
 
 Para instalar este programa, puedes simplemente copiar y pegar el script en un archivo `.c` ya creado en tu computadora.
 
-También puedes ejecutar el comando `git clone` en la ruta donde desees guardar este script.
+También puedes ejecutar el comando `git clone https://github.com/EdsonSaldivar/KeyLogger-Linux.git` en la ruta donde desees guardar este script.
 
 Antes de ejecutar el script asegurate de haber modificado las lineas necesarias marcadas en el script para ajustarlo a tu computadora.
 
