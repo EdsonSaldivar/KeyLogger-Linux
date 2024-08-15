@@ -28,6 +28,7 @@ Para ejecutar el script, basta con compilarlo con el siguiente comando:
 `gcc -o nombre_ejecutable_que_quieras finalkeylogger.c`
 
 Una vez compilado con GCC, iniciaremos el ejecutable **COMO USUARIO ROOT** con el comando:
+
 `sudo ./nombre_ejecutable_que_quieras`
 
 Con esto, el programa se estará ejecutando todo el tiempo hasta que nosotros lo detengamos con `CTRL + C`. El programa creará la carpeta de `Screenshots` y el archivo `keylogger.txt`, listos para recopilar los datos y enviarlos al servidor.
